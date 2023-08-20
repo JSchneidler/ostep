@@ -1,4 +1,3 @@
-
 # Overview: `generator.py`
 
 This tool, `generator.py`, allows the user to create little C programs
@@ -146,6 +145,3 @@ processes, "b" and "c", and then waits for both
 
 Read through and do the homework questions to gain a fuller
 understanding of `fork`.
-
-
-
