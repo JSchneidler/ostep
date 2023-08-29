@@ -1,4 +1,3 @@
-
 This program, `mlfq.py`, allows you to see how the MLFQ scheduler
 presented in this chapter behaves. As before, you can use this to generate
 problems for yourself using random seeds, or use it to construct a
