@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
     printf("%d: %dMb\n", getpid(), mem_mb);
 
     int size = mem_mb * 1024 * 1024;
-    int* array = malloc(size);
+    int* array = (int*) calloc(size/sizeof(int), sizeof(int));
 
     for(int i = 0; i < size / sizeof(int); i++)
         array[i] = -1;
