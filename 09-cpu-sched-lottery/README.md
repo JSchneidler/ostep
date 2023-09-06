@@ -1,4 +1,3 @@
-
 # Overview
 
 This program, lottery.py, allows you to see how a lottery scheduler

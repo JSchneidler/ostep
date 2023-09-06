@@ -1,4 +1,3 @@
-
 # Overview
 
 This program, malloc.py, allows you to see how a simple memory allocator
