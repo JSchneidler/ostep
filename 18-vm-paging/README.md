@@ -1,4 +1,3 @@
-
 # Overview
 
 In this homework, you will use a simple program, which is known as
