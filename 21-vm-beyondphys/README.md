@@ -1,4 +1,3 @@
-
 # Overview
 
 In this homework, you'll be investigating swap performance with a simple

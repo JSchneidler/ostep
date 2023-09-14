@@ -1,4 +1,3 @@
-
 # Overview
 
 This simulator, paging-policy.py, allows you to play around with different
