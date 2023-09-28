@@ -1,4 +1,3 @@
-
 # Overview
 
 In this homework, you'll use a real tool on Linux to find problems in
