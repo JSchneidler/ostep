@@ -1,4 +1,3 @@
-
 # Overview
 
 Welcome to this simulator! The idea is to gain familiarity with threads by
